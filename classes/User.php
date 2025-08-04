@@ -156,3 +156,5 @@ class User extends Database {
     }
 }
 ?>
+
+<!-- sample -->
