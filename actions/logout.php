@@ -6,4 +6,6 @@ $user = new User;
 
 // Call the method
 $user->logout();
+
+// This code main update for logout
 ?>
